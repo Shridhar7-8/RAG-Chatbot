@@ -44,19 +44,22 @@ cd rag-chatbot
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
 
 3. Install dependencies:
 
 ``bash
 pip install -r requirements.txt
+```
 
 # Usage Instructions
 
 ## Go to admin folder
 
 1. Start the Streamlit app:
-   ```bash
-   streamlit run admin.py
+```bash
+streamlit run admin.py
+```
 
 2. Open the app in your browser at http://localhost:8501.
 3. Upload PDF files and update the vector store.
@@ -67,6 +70,7 @@ pip install -r requirements.txt
 1. Navigate to the fast_server folder inside admin.
 ```bash
 cd fast_server
+```
 2. Run main.py to start the FastAPI server.
 
 ## Start the Frontend Chatbot
@@ -74,12 +78,15 @@ cd fast_server
 1. open a new terminal and Navigate to the chatbot directory.
 ```bash
 cd chatbot
+```
 2. Install dependencies (if not already installed).
 ```bash
 npm install
+```
 3. Start the development server.
 ```bash
 npm run dev
+```
 4. Open the chatbot interface in your browser. The default URL is usually http://localhost:3000
 
 
