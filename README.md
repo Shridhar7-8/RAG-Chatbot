@@ -35,7 +35,7 @@ This repository contains a Retrieval-Augmented Generation (RAG) chatbot designed
 1. To clone the repository, run the following commands in your terminal:
 
 ```bash
-git clone https://github.com/Shridhar7-8/rag-chatbot.git
+git clone https://github.com/Shridhar7-8/RAG-Chatbot.git
 cd rag-chatbot
 ```
 
