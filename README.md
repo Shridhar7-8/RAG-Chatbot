@@ -26,3 +26,16 @@ This repository contains a Retrieval-Augmented Generation (RAG) chatbot designed
 ### Frontend
 - **Next.js**: For building the frontend of the web application, providing a dynamic and interactive user interface.
 
+### Model:
+- **dunzhang/stella_en_1.5B_v5**: for embeddings.
+- **llama-3.2**: for query refinement and responses.
+
+## Clone the Repository
+
+1. To clone the repository, run the following commands in your terminal:
+
+```bash
+git clone https://github.com/your-username/rag-chatbot.git
+cd rag-chatbot
+
+
