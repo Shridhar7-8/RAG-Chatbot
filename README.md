@@ -13,7 +13,7 @@ This repository contains a Retrieval-Augmented Generation (RAG) chatbot designed
 - **FastAPI Backend**: Provides REST APIs for asking questions and refining queries.
 - **Sources for Answers**: Responses include document names and page numbers for better traceability.
 
-- ## Technologies Used
+## Technologies Used
 
 ### Python Libraries
 - **LangChain**: For document loaders, prompts, and retrieval-based question answering.
