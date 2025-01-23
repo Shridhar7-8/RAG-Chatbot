@@ -37,6 +37,7 @@ This repository contains a Retrieval-Augmented Generation (RAG) chatbot designed
 ```bash
 git clone https://github.com/Shridhar7-8/rag-chatbot.git
 cd rag-chatbot
+```
 
 2. Set up a virtual environment:
 
