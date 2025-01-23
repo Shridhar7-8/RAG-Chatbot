@@ -1,0 +1,9 @@
+langchain-schema
+pdf2image
+pytesseract
+streamlit
+langchain-community
+sentence-transformers
+fastapi
+faiss-cpu
+langchain-ollama
