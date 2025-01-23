@@ -9,7 +9,7 @@ This repository contains a Retrieval-Augmented Generation (RAG) chatbot designed
 - **Vector Search**: Implements FAISS for storing and retrieving document embeddings with similarity search.
 - **Query Refinement**: An LLM (`llama3.2`) is used to refine user queries for better retrieval performance.
 - **Customizable Prompt Templates**: Prompts can be tailored for context-specific assistance.
-- **Streamlit Interface**: Allows users to upload PDFs, process them, and update the vector store.
+- **Streamlit Interface**: Allows Admin to upload PDFs, process them, and update the vector store.
 - **FastAPI Backend**: Provides REST APIs for asking questions and refining queries.
 - **Sources for Answers**: Responses include document names and page numbers for better traceability.
 
